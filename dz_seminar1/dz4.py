@@ -5,4 +5,3 @@
 
 n = int(input('input quarter number: '))
 if n < 1 or n > 4:
-    print('Повторите ввод')
